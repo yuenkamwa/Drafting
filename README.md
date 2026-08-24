@@ -4,7 +4,7 @@
 This is a plugin for AutoCAD (2020 or below).<br />
 <br />
 Q: How to use it?<br />
-A: In AutoCAD, load the DLL file using <b>NETLOAD</b> command. That's it.<br />
+A: In AutoCAD, load the Drafting.dll file using <b>NETLOAD</b> command. That's it.<br />
 <br />
 <br />
 Tick "Unlock" after download the files.<br />
