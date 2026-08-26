@@ -1,7 +1,7 @@
 
 中意就攞去用喇! <br />
 <br />
-This is a plugin for AutoCAD (2020 or below).<br />
+This is a plugin for AutoCAD (2018 to 2027).<br />
 <br />
 Q: How to use it?<br />
 A: In AutoCAD, load the Drafting.dll file using <b>NETLOAD</b> command. That's it.<br />
